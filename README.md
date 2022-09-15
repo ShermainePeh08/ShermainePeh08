@@ -3,6 +3,7 @@
   <!-- <img align="right" alt="Coding" width="400" src="https://www.space.com/27600-around-a-star-system-space-wallpaper.html"> -->
 
 <!-- Profile -->
+<div>
 <p align="left"><strong><samp>「</samp></strong></p>
   <p align="center">
     <samp>
@@ -16,20 +17,27 @@
       <br>
     </samp>
   </p>
-<!-- Contact Me -->
+</div>
+[1]: https://github.com/ShermainePeh08
+[2]: https://www.linkedin.com/in/pehshermaine0704/
+    
+[![github](https://cloud.githubusercontent.com/assets/17016297/18839843/0e06a67a-83d2-11e6-993a-b35a182500e0.png)][1]
+[![linkedin](https://cloud.githubusercontent.com/assets/17016297/18839848/0fc7e74e-83d2-11e6-8c6a-277fc9d6e067.png)][2]
+    
+<!-- Contact Me 
 <p align="center">
   <samp>
     [<a href="https://pehshermaine.com/">Portfolio</a>]
     [<a href="mailto:shermainepehcm@gmail.com">Email</a>]
     [<a href="https://www.linkedin.com/in/pehshermaine0704/">LinkedIn</a>]
   </samp>
-</p>
+</p>-->
 <br><br>
 
 <details>
 <summary><samp><b>More Info</b></samp></summary>
 
-### Tech Stack 
+## Tech Stack 
 #### Languages:
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
@@ -57,14 +65,9 @@
   </table>
 </div>
 
-### Contact Me!
-[1]: https://github.com/ShermainePeh08
-[2]: https://www.linkedin.com/in/pehshermaine0704/
-[3]: https://pehshermaine.com/
-[4]: mailto:shermainepehcm@gmail.com
-
-[![github](https://cloud.githubusercontent.com/assets/17016297/18839843/0e06a67a-83d2-11e6-993a-b35a182500e0.png)][1]
-[![linkedin](https://cloud.githubusercontent.com/assets/17016297/18839848/0fc7e74e-83d2-11e6-8c6a-277fc9d6e067.png)][2]
-[![website](https://cloud.githubusercontent.com/assets/17016297/18839848/0fc7e74e-83d2-11e6-8c6a-277fc9d6e067.png)][2]
-
+## Contact Me!
+#### Website: <a href="https://pehshermaine.com/"></a>
+#### Email: <a href="mailto:shermainepehcm@gmail.com"></a>
+#### Github: <a href="https://github.com/ShermainePeh08"></a>
+#### LinkedIn: <a href="https://www.linkedin.com/in/pehshermaine0704/"></a>
 </div> 
