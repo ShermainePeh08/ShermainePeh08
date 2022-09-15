@@ -13,29 +13,29 @@
         I'm Shermaine, a Diploma Student.
       </b>
       <br>
-        <image src="https://gittyping.herokuapp.com/?font=Iosevka&size=16&color=5FB8F8&center=true&width=410&height=45&lines=I+enjoy+web+development+and+data+analytics+:).">
-      <br>
+        <image src="https://gittyping.herokuapp.com/?font=Iosevka&duration=6000&pause=2000&size=16&color=5FB8F8&center=true&width=410&height=45&lines=I+enjoy+web+development+and+data+analytics+:).">
     </samp>
-  </p>
+    </p>
+</div> 
+<div align="center">
+
+<a href = "https://github.com/ShermainePeh08">![github](https://cloud.githubusercontent.com/assets/17016297/18839843/0e06a67a-83d2-11e6-993a-b35a182500e0.png)</a>
+<a href = "https://www.linkedin.com/in/pehshermaine0704/">![linkedin](https://cloud.githubusercontent.com/assets/17016297/18839848/0fc7e74e-83d2-11e6-8c6a-277fc9d6e067.png)</a>
 </div>
-[1]: https://github.com/ShermainePeh08
-[2]: https://www.linkedin.com/in/pehshermaine0704/
-    
-[![github](https://cloud.githubusercontent.com/assets/17016297/18839843/0e06a67a-83d2-11e6-993a-b35a182500e0.png)][1]
-[![linkedin](https://cloud.githubusercontent.com/assets/17016297/18839848/0fc7e74e-83d2-11e6-8c6a-277fc9d6e067.png)][2]
-    
-<!-- Contact Me 
-<p align="center">
-  <samp>
-    [<a href="https://pehshermaine.com/">Portfolio</a>]
-    [<a href="mailto:shermainepehcm@gmail.com">Email</a>]
-    [<a href="https://www.linkedin.com/in/pehshermaine0704/">LinkedIn</a>]
-  </samp>
-</p>-->
-<br><br>
+<p align="right"><strong><samp>」</samp></strong></p>
 
 <details>
 <summary><samp><b>More Info</b></samp></summary>
+
+ <!-- Github Stats -->
+<div align="center">
+  <table>
+    <tr>
+      <td><a href="#--------"><img height="137px" align="center" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=ShermainePeh08&count_private=true&show_icons=true&include_all_commits=true&line_height=21&hide_border=true&theme=radical"/></a></td>
+      <td><a href="#--------"><img height="137px" align="center" alt="Top Language" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShermainePeh08&layout=compact&line_height=21&hide_border=true&theme=radical"/></a></td>
+    </tr>
+  </table>
+</div>
 
 ## Tech Stack 
 #### Languages:
@@ -55,19 +55,10 @@
 ![Angular.js](https://img.shields.io/badge/angular.js-%23E23237.svg?style=for-the-badge&logo=angularjs&logoColor=white)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 
- <!-- Github Stats -->
-<div align="center">
-  <table>
-    <tr>
-      <td><a href="#--------"><img height="137px" align="center" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=ShermainePeh08&count_private=true&show_icons=true&include_all_commits=true&line_height=21&hide_border=true&theme=radical"/></a></td>
-      <td><a href="#--------"><img height="137px" align="center" alt="Top Language" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShermainePeh08&layout=compact&line_height=21&hide_border=true&theme=radical"/></a></td>
-    </tr>
-  </table>
-</div>
 
 ## Contact Me!
-#### Website: <a href="https://pehshermaine.com/"></a>
-#### Email: <a href="mailto:shermainepehcm@gmail.com"></a>
-#### Github: <a href="https://github.com/ShermainePeh08"></a>
-#### LinkedIn: <a href="https://www.linkedin.com/in/pehshermaine0704/"></a>
+#### Website: https://pehshermaine.com/
+#### Email: shermainepehcm@gmail.com
+#### Github: https://github.com/ShermainePeh08
+#### LinkedIn: https://www.linkedin.com/in/pehshermaine0704/
 </div> 
