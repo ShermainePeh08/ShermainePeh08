@@ -1,4 +1,3 @@
-### Hi there 👋
 <!-- Shermaine's GitHub Profile -->
 <div align="justify">
   <!-- <img align="right" alt="Coding" width="400" src="https://www.space.com/27600-around-a-star-system-space-wallpaper.html"> -->
@@ -17,15 +16,6 @@
       <br>
     </samp>
   </p>
-<p align="right"><strong><samp>」</samp></strong></p>
-
-<br>
-
-<details>
-<summary><samp><b>More Info</b></samp></summary>
-
-<h2></h2><br>
-
 <!-- Contact Me -->
 <p align="center">
   <samp>
@@ -34,7 +24,30 @@
     [<a href="https://www.linkedin.com/in/pehshermaine0704/">LinkedIn</a>]
   </samp>
 </p>
-   <!-- Github Stats -->
+<br><br>
+
+<details>
+<summary><samp><b>More Info</b></samp></summary>
+
+### Tech Stack 
+#### Languages:
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
+![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)
+
+#### Database:
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)	
+
+#### Frameworks:
+![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
+![Angular.js](https://img.shields.io/badge/angular.js-%23E23237.svg?style=for-the-badge&logo=angularjs&logoColor=white)
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+
+ <!-- Github Stats -->
 <div align="center">
   <table>
     <tr>
@@ -43,4 +56,15 @@
     </tr>
   </table>
 </div>
- </div> 
+
+### Contact Me!
+[1]: https://github.com/ShermainePeh08
+[2]: https://www.linkedin.com/in/pehshermaine0704/
+[3]: https://pehshermaine.com/
+[4]: mailto:shermainepehcm@gmail.com
+
+[![github](https://cloud.githubusercontent.com/assets/17016297/18839843/0e06a67a-83d2-11e6-993a-b35a182500e0.png)][1]
+[![linkedin](https://cloud.githubusercontent.com/assets/17016297/18839848/0fc7e74e-83d2-11e6-8c6a-277fc9d6e067.png)][2]
+[![website](https://cloud.githubusercontent.com/assets/17016297/18839848/0fc7e74e-83d2-11e6-8c6a-277fc9d6e067.png)][2]
+
+</div> 
