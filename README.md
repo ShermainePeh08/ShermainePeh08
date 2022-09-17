@@ -29,12 +29,8 @@
 
  <!-- Github Stats -->
 <div align="center">
-  <table>
-    <tr>
       <td><a href="#--------"><img height="137px" align="center" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=ShermainePeh08&count_private=true&show_icons=true&include_all_commits=true&line_height=21&hide_border=true&theme=radical"/></a></td>
       <td><a href="#--------"><img height="137px" align="center" alt="Top Language" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShermainePeh08&layout=compact&line_height=21&hide_border=true&theme=radical"/></a></td>
-    </tr>
-  </table>
 </div>
 
 ## Tech Stack 
@@ -57,8 +53,8 @@
 
 
 ## Contact Me!
-#### Website: https://pehshermaine.com/
+#### Portfolio: https://pehshermaine.com/
 #### Email: shermainepehcm@gmail.com
-#### Github: https://github.com/ShermainePeh08
 #### LinkedIn: https://www.linkedin.com/in/pehshermaine0704/
+#### Github: https://github.com/ShermainePeh08
 </div> 
