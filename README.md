@@ -26,7 +26,7 @@
 
 <details>
 <summary><samp><b>More Info</b></samp></summary>
-
+<br>
  <!-- Github Stats -->
 <div align="center">
       <td><a href="#--------"><img height="137px" align="center" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=ShermainePeh08&count_private=true&show_icons=true&include_all_commits=true&line_height=21&hide_border=true&theme=radical"/></a></td>
