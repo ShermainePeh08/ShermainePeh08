@@ -29,8 +29,8 @@
 <br>
  <!-- Github Stats -->
 <div align="center">
-      <td><a href="#--------"><img height="137px" align="center" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=ShermainePeh08&count_private=true&show_icons=true&include_all_commits=true&line_height=21&hide_border=true&theme=radical"/></a></td>
-      <td><a href="#--------"><img height="137px" align="center" alt="Top Language" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShermainePeh08&layout=compact&line_height=21&hide_border=true&theme=radical"/></a></td>
+      <td><a href="#--------"><img height="137px" align="center" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=ShermainePeh08&theme=radical&show_icons=true&hide_border=true&count_private=true&hide=prs,issues"/></a></td>
+      <td><a href="#--------"><img height="137px" align="center" alt="Top Language" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShermainePeh08&theme=radical&show_icons=true&hide_border=true&layout=compact"/></a></td>
 </div>
 
 ## Tech Stack 
