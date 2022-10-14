@@ -13,7 +13,7 @@
         I'm Shermaine, a Diploma Student.
       </b>
       <br>
-        <image src="https://gittyping.herokuapp.com/?font=Iosevka&duration=6000&pause=2000&size=16&color=5FB8F8&center=true&width=410&height=45&lines=I+enjoy+web+development+and+data+analytics+:).">
+        <image src="https://readme-typing-svg.demolab.com?font=Silkscreen&size=14&pause=1000&color=EAD27F&width=435&lines=I+enjoy+data+analytics%2C+AI+and+web+development">
     </samp>
     </p>
 </div> 
