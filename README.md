@@ -33,7 +33,7 @@
     <a href="#--------"><img height="137px" align="center" alt="Top Language" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShermainePeh08&theme=radical&show_icons=true&hide_border=true&layout=compact&count_private=true"/></a>
 </div>
 
-## Tech Stack 
+<!-- ## Tech Stack 
 #### Languages:
 [![My Skills](https://skillicons.dev/icons?i=cs,html,css,js,py,r)](https://skillicons.dev)
 <!-- ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
@@ -43,12 +43,12 @@
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white) -->
 
-#### Database:
+<!-- #### Database:
 [![My Skills](https://skillicons.dev/icons?i=mongodb,sqlite,mysql)](https://skillicons.dev)
 <!-- ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) -->
 
-#### Frameworks:
+<!-- #### Frameworks:
 [![My Skills](https://skillicons.dev/icons?i=angular,dotnet,react,flask)](https://skillicons.dev)
 <!-- ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
 ![Angular.js](https://img.shields.io/badge/angular.js-%23E23237.svg?style=for-the-badge&logo=angularjs&logoColor=white)
@@ -56,7 +56,7 @@
 
 
 ## Contacts
-#### Portfolio: https://pehshermaine.tech/
+<!-- #### Portfolio: https://pehshermaine.tech/-->
 #### Email: shermainepehcm@gmail.com
 #### LinkedIn: https://www.linkedin.com/in/pehshermaine0704/
 #### Github: https://github.com/ShermainePeh08
