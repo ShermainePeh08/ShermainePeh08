@@ -10,7 +10,7 @@
       <b>
         Hello! 
       <br>
-        I'm Shermaine, a Diploma Student.
+        I'm Shermaine, a CS Undergrad Student.
       </b>
       <br>
         <image src="https://readme-typing-svg.demolab.com?font=Silkscreen&size=13&pause=1000&color=EAD27F&width=435&lines=I+enjoy+data+analytics%2C+AI+and+web+development+:)">
